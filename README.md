@@ -1,5 +1,5 @@
 # Catalog Service Search
-Cache Service of [catalog service](https://github.com/ahlp/catalog-service) in Haskell
+Cache Service of [catalog service](https://github.com/IF1007/catalog-service) in Haskell
 
 # How To Build
 
